@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Better slow and late than never.
 Use the left arrow to go back!
